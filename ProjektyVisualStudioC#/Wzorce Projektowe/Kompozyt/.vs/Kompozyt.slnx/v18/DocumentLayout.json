@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IdeaPad\\Documents\\VisualStudio\\Kompozyt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F984BF5D-5E7E-4A31-9028-E7044844F7D5}|Kompozyt\\Kompozyt.csproj|c:\\users\\ideapad\\documents\\visualstudio\\kompozyt\\kompozyt\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F984BF5D-5E7E-4A31-9028-E7044844F7D5}|Kompozyt\\Kompozyt.csproj|solutionrelative:kompozyt\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F984BF5D-5E7E-4A31-9028-E7044844F7D5}|Kompozyt\\Kompozyt.csproj|c:\\users\\ideapad\\documents\\visualstudio\\kompozyt\\kompozyt\\plik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F984BF5D-5E7E-4A31-9028-E7044844F7D5}|Kompozyt\\Kompozyt.csproj|solutionrelative:kompozyt\\plik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F984BF5D-5E7E-4A31-9028-E7044844F7D5}|Kompozyt\\Kompozyt.csproj|c:\\users\\ideapad\\documents\\visualstudio\\kompozyt\\kompozyt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F984BF5D-5E7E-4A31-9028-E7044844F7D5}|Kompozyt\\Kompozyt.csproj|solutionrelative:kompozyt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F984BF5D-5E7E-4A31-9028-E7044844F7D5}|Kompozyt\\Kompozyt.csproj|c:\\users\\ideapad\\documents\\visualstudio\\kompozyt\\kompozyt\\ifilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F984BF5D-5E7E-4A31-9028-E7044844F7D5}|Kompozyt\\Kompozyt.csproj|solutionrelative:kompozyt\\ifilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Katalog.cs",
+              "DocumentMoniker": "C:\\Users\\IdeaPad\\Documents\\VisualStudio\\Kompozyt\\Kompozyt\\Katalog.cs",
+              "RelativeDocumentMoniker": "Kompozyt\\Katalog.cs",
+              "ToolTip": "C:\\Users\\IdeaPad\\Documents\\VisualStudio\\Kompozyt\\Kompozyt\\Katalog.cs",
+              "RelativeToolTip": "Kompozyt\\Katalog.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:55:52.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plik.cs",
+              "DocumentMoniker": "C:\\Users\\IdeaPad\\Documents\\VisualStudio\\Kompozyt\\Kompozyt\\Plik.cs",
+              "RelativeDocumentMoniker": "Kompozyt\\Plik.cs",
+              "ToolTip": "C:\\Users\\IdeaPad\\Documents\\VisualStudio\\Kompozyt\\Kompozyt\\Plik.cs",
+              "RelativeToolTip": "Kompozyt\\Plik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:49:43.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileManager.cs",
+              "DocumentMoniker": "C:\\Users\\IdeaPad\\Documents\\VisualStudio\\Kompozyt\\Kompozyt\\IFileManager.cs",
+              "RelativeDocumentMoniker": "Kompozyt\\IFileManager.cs",
+              "ToolTip": "C:\\Users\\IdeaPad\\Documents\\VisualStudio\\Kompozyt\\Kompozyt\\IFileManager.cs",
+              "RelativeToolTip": "Kompozyt\\IFileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:46:24.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IdeaPad\\Documents\\VisualStudio\\Kompozyt\\Kompozyt\\Program.cs",
+              "RelativeDocumentMoniker": "Kompozyt\\Program.cs",
+              "ToolTip": "C:\\Users\\IdeaPad\\Documents\\VisualStudio\\Kompozyt\\Kompozyt\\Program.cs",
+              "RelativeToolTip": "Kompozyt\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:42:45.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

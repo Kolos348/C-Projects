@@ -1,0 +1,14 @@
+C:\Users\IdeaPad\Documents\VisualStudio\Kompozyt\Kompozyt\obj\Debug\net10.0\Kompozyt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IdeaPad\Documents\VisualStudio\Kompozyt\Kompozyt\obj\Debug\net10.0\Kompozyt.AssemblyInfoInputs.cache
+C:\Users\IdeaPad\Documents\VisualStudio\Kompozyt\Kompozyt\obj\Debug\net10.0\Kompozyt.AssemblyInfo.cs
+C:\Users\IdeaPad\Documents\VisualStudio\Kompozyt\Kompozyt\obj\Debug\net10.0\Kompozyt.csproj.CoreCompileInputs.cache
+C:\Users\IdeaPad\Documents\VisualStudio\Kompozyt\Kompozyt\bin\Debug\net10.0\Kompozyt.exe
+C:\Users\IdeaPad\Documents\VisualStudio\Kompozyt\Kompozyt\bin\Debug\net10.0\Kompozyt.deps.json
+C:\Users\IdeaPad\Documents\VisualStudio\Kompozyt\Kompozyt\bin\Debug\net10.0\Kompozyt.runtimeconfig.json
+C:\Users\IdeaPad\Documents\VisualStudio\Kompozyt\Kompozyt\bin\Debug\net10.0\Kompozyt.dll
+C:\Users\IdeaPad\Documents\VisualStudio\Kompozyt\Kompozyt\bin\Debug\net10.0\Kompozyt.pdb
+C:\Users\IdeaPad\Documents\VisualStudio\Kompozyt\Kompozyt\obj\Debug\net10.0\Kompozyt.dll
+C:\Users\IdeaPad\Documents\VisualStudio\Kompozyt\Kompozyt\obj\Debug\net10.0\refint\Kompozyt.dll
+C:\Users\IdeaPad\Documents\VisualStudio\Kompozyt\Kompozyt\obj\Debug\net10.0\Kompozyt.pdb
+C:\Users\IdeaPad\Documents\VisualStudio\Kompozyt\Kompozyt\obj\Debug\net10.0\Kompozyt.genruntimeconfig.cache
+C:\Users\IdeaPad\Documents\VisualStudio\Kompozyt\Kompozyt\obj\Debug\net10.0\ref\Kompozyt.dll

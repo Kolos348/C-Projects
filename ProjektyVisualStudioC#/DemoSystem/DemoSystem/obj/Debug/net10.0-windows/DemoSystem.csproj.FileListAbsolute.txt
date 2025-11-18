@@ -1,0 +1,16 @@
+C:\gildia\DemoSystem\DemoSystem\bin\Debug\net10.0-windows\DemoSystem.exe
+C:\gildia\DemoSystem\DemoSystem\bin\Debug\net10.0-windows\DemoSystem.deps.json
+C:\gildia\DemoSystem\DemoSystem\bin\Debug\net10.0-windows\DemoSystem.runtimeconfig.json
+C:\gildia\DemoSystem\DemoSystem\bin\Debug\net10.0-windows\DemoSystem.dll
+C:\gildia\DemoSystem\DemoSystem\bin\Debug\net10.0-windows\DemoSystem.pdb
+C:\gildia\DemoSystem\DemoSystem\obj\Debug\net10.0-windows\DemoSystem.DemoSystem.resources
+C:\gildia\DemoSystem\DemoSystem\obj\Debug\net10.0-windows\DemoSystem.csproj.GenerateResource.cache
+C:\gildia\DemoSystem\DemoSystem\obj\Debug\net10.0-windows\DemoSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\gildia\DemoSystem\DemoSystem\obj\Debug\net10.0-windows\DemoSystem.AssemblyInfoInputs.cache
+C:\gildia\DemoSystem\DemoSystem\obj\Debug\net10.0-windows\DemoSystem.AssemblyInfo.cs
+C:\gildia\DemoSystem\DemoSystem\obj\Debug\net10.0-windows\DemoSystem.csproj.CoreCompileInputs.cache
+C:\gildia\DemoSystem\DemoSystem\obj\Debug\net10.0-windows\DemoSystem.dll
+C:\gildia\DemoSystem\DemoSystem\obj\Debug\net10.0-windows\refint\DemoSystem.dll
+C:\gildia\DemoSystem\DemoSystem\obj\Debug\net10.0-windows\DemoSystem.pdb
+C:\gildia\DemoSystem\DemoSystem\obj\Debug\net10.0-windows\DemoSystem.genruntimeconfig.cache
+C:\gildia\DemoSystem\DemoSystem\obj\Debug\net10.0-windows\ref\DemoSystem.dll

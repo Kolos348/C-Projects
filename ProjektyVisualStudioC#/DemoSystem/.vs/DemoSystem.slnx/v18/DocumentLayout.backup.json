@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\gildia\\DemoSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|c:\\gildia\\demosystem\\demosystem\\factories\\mydemofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|solutionrelative:demosystem\\factories\\mydemofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|C:\\gildia\\DemoSystem\\demosystem\\demosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|solutionrelative:demosystem\\demosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|c:\\gildia\\demosystem\\demosystem\\library\\effects\\radiofreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|solutionrelative:demosystem\\library\\effects\\radiofreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|c:\\gildia\\demosystem\\demosystem\\library\\effects\\waves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|solutionrelative:demosystem\\library\\effects\\waves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|c:\\gildia\\demosystem\\demosystem\\library\\effects\\particlebomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|solutionrelative:demosystem\\library\\effects\\particlebomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|c:\\gildia\\demosystem\\demosystem\\library\\effects\\ballsimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|solutionrelative:demosystem\\library\\effects\\ballsimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|c:\\gildia\\demosystem\\demosystem\\library\\effects\\floatingarrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|solutionrelative:demosystem\\library\\effects\\floatingarrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|c:\\gildia\\demosystem\\demosystem\\library\\effects\\aurora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|solutionrelative:demosystem\\library\\effects\\aurora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|c:\\gildia\\demosystem\\demosystem\\library\\effects\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|solutionrelative:demosystem\\library\\effects\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|c:\\gildia\\demosystem\\demosystem\\library\\effects\\pulsingrainbowcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|solutionrelative:demosystem\\library\\effects\\pulsingrainbowcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|c:\\gildia\\demosystem\\demosystem\\library\\effects\\growingcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|solutionrelative:demosystem\\library\\effects\\growingcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|c:\\gildia\\demosystem\\demosystem\\demosystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|solutionrelative:demosystem\\demosystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|c:\\gildia\\demosystem\\demosystem\\library\\moment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EBD591-86D6-2A19-B0AF-B8ECE2C7CFA2}|DemoSystem\\DemoSystem.csproj|solutionrelative:demosystem\\library\\moment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 333,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\Ball.cs",
+              "RelativeDocumentMoniker": "DemoSystem\\Library\\Effects\\Ball.cs",
+              "ToolTip": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\Ball.cs",
+              "RelativeToolTip": "DemoSystem\\Library\\Effects\\Ball.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T09:19:31.92Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BallSimulation.cs",
+              "DocumentMoniker": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\BallSimulation.cs",
+              "RelativeDocumentMoniker": "DemoSystem\\Library\\Effects\\BallSimulation.cs",
+              "ToolTip": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\BallSimulation.cs",
+              "RelativeToolTip": "DemoSystem\\Library\\Effects\\BallSimulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T09:20:20.898Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RadioFreq.cs",
+              "DocumentMoniker": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\RadioFreq.cs",
+              "RelativeDocumentMoniker": "DemoSystem\\Library\\Effects\\RadioFreq.cs",
+              "ToolTip": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\RadioFreq.cs",
+              "RelativeToolTip": "DemoSystem\\Library\\Effects\\RadioFreq.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:18:20.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoSystem.cs [Projekt]",
+              "DocumentMoniker": "C:\\gildia\\DemoSystem\\DemoSystem\\DemoSystem.cs",
+              "RelativeDocumentMoniker": "DemoSystem\\DemoSystem.cs",
+              "ToolTip": "C:\\gildia\\DemoSystem\\DemoSystem\\DemoSystem.cs [Projekt]",
+              "RelativeToolTip": "DemoSystem\\DemoSystem.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T09:08:00.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDemoFactory.cs",
+              "DocumentMoniker": "C:\\gildia\\DemoSystem\\DemoSystem\\Factories\\MyDemoFactory.cs",
+              "RelativeDocumentMoniker": "DemoSystem\\Factories\\MyDemoFactory.cs",
+              "ToolTip": "C:\\gildia\\DemoSystem\\DemoSystem\\Factories\\MyDemoFactory.cs",
+              "RelativeToolTip": "DemoSystem\\Factories\\MyDemoFactory.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T09:09:07.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Waves.cs",
+              "DocumentMoniker": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\Waves.cs",
+              "RelativeDocumentMoniker": "DemoSystem\\Library\\Effects\\Waves.cs",
+              "ToolTip": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\Waves.cs",
+              "RelativeToolTip": "DemoSystem\\Library\\Effects\\Waves.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAACvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:07:50.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParticleBomb.cs",
+              "DocumentMoniker": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\ParticleBomb.cs",
+              "RelativeDocumentMoniker": "DemoSystem\\Library\\Effects\\ParticleBomb.cs",
+              "ToolTip": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\ParticleBomb.cs",
+              "RelativeToolTip": "DemoSystem\\Library\\Effects\\ParticleBomb.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:54:02.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FloatingArrow.cs",
+              "DocumentMoniker": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\FloatingArrow.cs",
+              "RelativeDocumentMoniker": "DemoSystem\\Library\\Effects\\FloatingArrow.cs",
+              "ToolTip": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\FloatingArrow.cs",
+              "RelativeToolTip": "DemoSystem\\Library\\Effects\\FloatingArrow.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:42:13.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Aurora.cs",
+              "DocumentMoniker": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\Aurora.cs",
+              "RelativeDocumentMoniker": "DemoSystem\\Library\\Effects\\Aurora.cs",
+              "ToolTip": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\Aurora.cs",
+              "RelativeToolTip": "DemoSystem\\Library\\Effects\\Aurora.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:06:29.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PulsingRainbowCircle.cs",
+              "DocumentMoniker": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\PulsingRainbowCircle.cs",
+              "RelativeDocumentMoniker": "DemoSystem\\Library\\Effects\\PulsingRainbowCircle.cs",
+              "ToolTip": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\PulsingRainbowCircle.cs",
+              "RelativeToolTip": "DemoSystem\\Library\\Effects\\PulsingRainbowCircle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T09:16:55.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GrowingCircle.cs",
+              "DocumentMoniker": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\GrowingCircle.cs",
+              "RelativeDocumentMoniker": "DemoSystem\\Library\\Effects\\GrowingCircle.cs",
+              "ToolTip": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Effects\\GrowingCircle.cs",
+              "RelativeToolTip": "DemoSystem\\Library\\Effects\\GrowingCircle.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T09:14:50.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DemoSystem.csproj",
+              "DocumentMoniker": "C:\\gildia\\DemoSystem\\DemoSystem\\DemoSystem.csproj",
+              "RelativeDocumentMoniker": "DemoSystem\\DemoSystem.csproj",
+              "ToolTip": "C:\\gildia\\DemoSystem\\DemoSystem\\DemoSystem.csproj",
+              "RelativeToolTip": "DemoSystem\\DemoSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T09:11:51.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Moment.cs",
+              "DocumentMoniker": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Moment.cs",
+              "RelativeDocumentMoniker": "DemoSystem\\Library\\Moment.cs",
+              "ToolTip": "C:\\gildia\\DemoSystem\\DemoSystem\\Library\\Moment.cs",
+              "RelativeToolTip": "DemoSystem\\Library\\Moment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T09:08:18.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

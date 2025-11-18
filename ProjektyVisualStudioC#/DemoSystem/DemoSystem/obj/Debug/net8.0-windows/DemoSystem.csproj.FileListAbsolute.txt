@@ -1,0 +1,16 @@
+C:\WSIZ\Zajęcia\2025_Jesień\Gildia\DemoSystem\DemoSystem\bin\Debug\net8.0-windows\DemoSystem.exe
+C:\WSIZ\Zajęcia\2025_Jesień\Gildia\DemoSystem\DemoSystem\bin\Debug\net8.0-windows\DemoSystem.deps.json
+C:\WSIZ\Zajęcia\2025_Jesień\Gildia\DemoSystem\DemoSystem\bin\Debug\net8.0-windows\DemoSystem.runtimeconfig.json
+C:\WSIZ\Zajęcia\2025_Jesień\Gildia\DemoSystem\DemoSystem\bin\Debug\net8.0-windows\DemoSystem.dll
+C:\WSIZ\Zajęcia\2025_Jesień\Gildia\DemoSystem\DemoSystem\bin\Debug\net8.0-windows\DemoSystem.pdb
+C:\WSIZ\Zajęcia\2025_Jesień\Gildia\DemoSystem\DemoSystem\obj\Debug\net8.0-windows\DemoSystem.DemoSystem.resources
+C:\WSIZ\Zajęcia\2025_Jesień\Gildia\DemoSystem\DemoSystem\obj\Debug\net8.0-windows\DemoSystem.csproj.GenerateResource.cache
+C:\WSIZ\Zajęcia\2025_Jesień\Gildia\DemoSystem\DemoSystem\obj\Debug\net8.0-windows\DemoSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\WSIZ\Zajęcia\2025_Jesień\Gildia\DemoSystem\DemoSystem\obj\Debug\net8.0-windows\DemoSystem.AssemblyInfoInputs.cache
+C:\WSIZ\Zajęcia\2025_Jesień\Gildia\DemoSystem\DemoSystem\obj\Debug\net8.0-windows\DemoSystem.AssemblyInfo.cs
+C:\WSIZ\Zajęcia\2025_Jesień\Gildia\DemoSystem\DemoSystem\obj\Debug\net8.0-windows\DemoSystem.csproj.CoreCompileInputs.cache
+C:\WSIZ\Zajęcia\2025_Jesień\Gildia\DemoSystem\DemoSystem\obj\Debug\net8.0-windows\DemoSystem.dll
+C:\WSIZ\Zajęcia\2025_Jesień\Gildia\DemoSystem\DemoSystem\obj\Debug\net8.0-windows\refint\DemoSystem.dll
+C:\WSIZ\Zajęcia\2025_Jesień\Gildia\DemoSystem\DemoSystem\obj\Debug\net8.0-windows\DemoSystem.pdb
+C:\WSIZ\Zajęcia\2025_Jesień\Gildia\DemoSystem\DemoSystem\obj\Debug\net8.0-windows\DemoSystem.genruntimeconfig.cache
+C:\WSIZ\Zajęcia\2025_Jesień\Gildia\DemoSystem\DemoSystem\obj\Debug\net8.0-windows\ref\DemoSystem.dll

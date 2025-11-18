@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IdeaPad\\Desktop\\Projekty Visual Studio C#\\Wzorce Projektowe\\Fasda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDFBABB-2CF7-06F7-848D-B185C58F2CF6}|Fasda\\Fasda.csproj|c:\\users\\ideapad\\desktop\\projekty visual studio c#\\wzorce projektowe\\fasda\\fasda\\zamowienie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDFBABB-2CF7-06F7-848D-B185C58F2CF6}|Fasda\\Fasda.csproj|solutionrelative:fasda\\zamowienie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDFBABB-2CF7-06F7-848D-B185C58F2CF6}|Fasda\\Fasda.csproj|c:\\users\\ideapad\\desktop\\projekty visual studio c#\\wzorce projektowe\\fasda\\fasda\\serwisplatnosci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDFBABB-2CF7-06F7-848D-B185C58F2CF6}|Fasda\\Fasda.csproj|solutionrelative:fasda\\serwisplatnosci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDFBABB-2CF7-06F7-848D-B185C58F2CF6}|Fasda\\Fasda.csproj|c:\\users\\ideapad\\desktop\\projekty visual studio c#\\wzorce projektowe\\fasda\\fasda\\serwismagazynu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDFBABB-2CF7-06F7-848D-B185C58F2CF6}|Fasda\\Fasda.csproj|solutionrelative:fasda\\serwismagazynu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDFBABB-2CF7-06F7-848D-B185C58F2CF6}|Fasda\\Fasda.csproj|c:\\users\\ideapad\\desktop\\projekty visual studio c#\\wzorce projektowe\\fasda\\fasda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDFBABB-2CF7-06F7-848D-B185C58F2CF6}|Fasda\\Fasda.csproj|solutionrelative:fasda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDFBABB-2CF7-06F7-848D-B185C58F2CF6}|Fasda\\Fasda.csproj|c:\\users\\ideapad\\desktop\\projekty visual studio c#\\wzorce projektowe\\fasda\\fasda\\fasadazamowien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDFBABB-2CF7-06F7-848D-B185C58F2CF6}|Fasda\\Fasda.csproj|solutionrelative:fasda\\fasadazamowien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SerwisPlatnosci.cs",
+              "DocumentMoniker": "C:\\Users\\IdeaPad\\Desktop\\Projekty Visual Studio C#\\Wzorce Projektowe\\Fasda\\Fasda\\SerwisPlatnosci.cs",
+              "RelativeDocumentMoniker": "Fasda\\SerwisPlatnosci.cs",
+              "ToolTip": "C:\\Users\\IdeaPad\\Desktop\\Projekty Visual Studio C#\\Wzorce Projektowe\\Fasda\\Fasda\\SerwisPlatnosci.cs",
+              "RelativeToolTip": "Fasda\\SerwisPlatnosci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:55:45.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SerwisMagazynu.cs",
+              "DocumentMoniker": "C:\\Users\\IdeaPad\\Desktop\\Projekty Visual Studio C#\\Wzorce Projektowe\\Fasda\\Fasda\\SerwisMagazynu.cs",
+              "RelativeDocumentMoniker": "Fasda\\SerwisMagazynu.cs",
+              "ToolTip": "C:\\Users\\IdeaPad\\Desktop\\Projekty Visual Studio C#\\Wzorce Projektowe\\Fasda\\Fasda\\SerwisMagazynu.cs",
+              "RelativeToolTip": "Fasda\\SerwisMagazynu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:55:29.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IdeaPad\\Desktop\\Projekty Visual Studio C#\\Wzorce Projektowe\\Fasda\\Fasda\\Program.cs",
+              "RelativeDocumentMoniker": "Fasda\\Program.cs",
+              "ToolTip": "C:\\Users\\IdeaPad\\Desktop\\Projekty Visual Studio C#\\Wzorce Projektowe\\Fasda\\Fasda\\Program.cs",
+              "RelativeToolTip": "Fasda\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:36:21.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zamowienie.cs",
+              "DocumentMoniker": "C:\\Users\\IdeaPad\\Desktop\\Projekty Visual Studio C#\\Wzorce Projektowe\\Fasda\\Fasda\\Zamowienie.cs",
+              "RelativeDocumentMoniker": "Fasda\\Zamowienie.cs",
+              "ToolTip": "C:\\Users\\IdeaPad\\Desktop\\Projekty Visual Studio C#\\Wzorce Projektowe\\Fasda\\Fasda\\Zamowienie.cs",
+              "RelativeToolTip": "Fasda\\Zamowienie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:36:11.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FasadaZamowien.cs",
+              "DocumentMoniker": "C:\\Users\\IdeaPad\\Desktop\\Projekty Visual Studio C#\\Wzorce Projektowe\\Fasda\\Fasda\\FasadaZamowien.cs",
+              "RelativeDocumentMoniker": "Fasda\\FasadaZamowien.cs",
+              "ToolTip": "C:\\Users\\IdeaPad\\Desktop\\Projekty Visual Studio C#\\Wzorce Projektowe\\Fasda\\Fasda\\FasadaZamowien.cs",
+              "RelativeToolTip": "Fasda\\FasadaZamowien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:11:19.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
